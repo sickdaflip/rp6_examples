@@ -1,0 +1,6 @@
+define reset 
+SIGNAL SIGHUP 
+end 
+file RP6Base_LightDetection.elf 
+target remote localhost:4242  
+break main 

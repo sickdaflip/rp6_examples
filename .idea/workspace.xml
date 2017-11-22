@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bce99b0e-c146-4ae3-86c0-474cff9e249c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/bc_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/doxygen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/nav_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/nav_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/pic01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/pic02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/tab_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/tab_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/tab_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/tab_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/RP6Examples_20120725f.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/Example_01_LEDs.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/Example_01_LEDs.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/RP6Base_LEDs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/RP6Base_LEDs.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/RP6Base_LEDs_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/Example_02_UART_01.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/Example_02_UART_01.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/RP6Base_SerialInterface_01.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/RP6Base_SerialInterface_01.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/RP6Base_SerialInterface_01_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_01/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/Example_02_UART_02.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/Example_02_UART_02.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/RP6Base_SerialInterface_02.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/RP6Base_SerialInterface_02.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/RP6Base_SerialInterface_02_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_02_UART_02/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/Example_03_Stopwatches.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/Example_03_Stopwatches.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/RP6Base_Stopwatches.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/RP6Base_Stopwatches.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/RP6Base_Stopwatches_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_03_Stopwatches/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/Example_04_ACS.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/Example_04_ACS.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/RP6Base_ACS.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/RP6Base_ACS.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/RP6Base_ACS_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_04_ACS/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/Example_05_Move_01.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/Example_05_Move_01.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/RP6Base_Move_01.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/RP6Base_Move_01.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/RP6Base_Move_01_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_01/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/Example_05_Move_02.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/Example_05_Move_02.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/RP6Base_Move_02.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/RP6Base_Move_02.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/RP6Base_Move_02_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_02/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/Example_05_Move_03.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/Example_05_Move_03.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/RP6Base_Move_03.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/RP6Base_Move_03.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/RP6Base_Move_03_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_03/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/Example_05_Move_04.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/Example_05_Move_04.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/RP6Base_Move_04.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/RP6Base_Move_04.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/RP6Base_Move_04_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/Example_05_Move_04_FSM.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/Example_05_Move_04_FSM.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/RP6Base_Move_04_FSM.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/RP6Base_Move_04_FSM.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/RP6Base_Move_04_FSM_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/Example_05_Move_04_FSM2.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/Example_05_Move_04_FSM2.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/RP6Base_Move_04_FSM2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/RP6Base_Move_04_FSM2.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/RP6Base_Move_04_FSM2_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_04_StateMachine2/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/Example_05_Move_05.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/Example_05_Move_05.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/RP6Base_Move_05.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/RP6Base_Move_05.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/RP6Base_Move_05_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_05_Move_05/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/Example_06_LightDetection.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/Example_06_LightDetection.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/RP6Base_LightDetection.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/RP6Base_LightDetection.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/RP6Base_LightDetection_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/__avr_gdbinit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/make_debug.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_06_LightDetection/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/Example_06_LightFollowing.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/Example_06_LightFollowing.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/RP6Base_LightFollowing.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/RP6Base_LightFollowing.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/RP6Base_LightFollowing_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_07_LightFollowing/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/Example_08_TV_REMOTE.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/Example_08_TV_REMOTE.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/RP6Base_TV_REMOTE.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/RP6Base_TV_REMOTE.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/RP6Base_TV_REMOTE_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_08_TV_REMOTE/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6BaseExamples.ppg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/RP6Base_I2CMaster_01.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/RP6Base_I2CMaster_01.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/RP6Base_I2CMaster_01.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/RP6Base_I2CMaster_01.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/RP6Base_I2CMaster_01_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_01/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_02/RP6Base_I2CMaster_02.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_02/RP6Base_I2CMaster_02.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_02/RP6Base_I2CMaster_02.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_02/RP6Base_I2CMaster_02_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_02/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_02/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_02/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/RP6Base_I2CMaster_03.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/RP6Base_I2CMaster_03.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/RP6Base_I2CMaster_03.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/RP6Base_I2CMaster_03.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/RP6Base_I2CMaster_03_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_03/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/RP6Base_I2CMaster_04.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/RP6Base_I2CMaster_04.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/RP6Base_I2CMaster_04.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/RP6Base_I2CMaster_04.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/RP6Base_I2CMaster_04_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CMaster_04/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CSlave/RP6Base_I2CSlave.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CSlave/RP6Base_I2CSlave.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CSlave/RP6Base_I2CSlave.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CSlave/RP6Base_I2CSlave.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CSlave/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CSlave/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_I2CSlave/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/RP6Base_SELFTEST.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/RP6Base_SELFTEST.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/RP6Base_SELFTEST.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/RP6RobotBaseLib_debug.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/RP6RobotBaseLib_debug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/RP6Base_SELFTEST/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6BASE_EXAMPLES/rebuild_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/Example_01_LCD.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/Example_01_LCD.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/RP6Control_LCD.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/RP6Control_LCD.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/RP6Control_LCD_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_01_LCD/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_02_Buttons/Example_02_Buttons.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_02_Buttons/Example_02_Buttons.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_02_Buttons/RP6Control_Buttons.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_02_Buttons/RP6Control_Buttons.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_02_Buttons/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_02_Buttons/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_02_Buttons/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_03_Microphone/Example_03_Microphone.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_03_Microphone/Example_03_Microphone.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_03_Microphone/RP6Control_Microphone.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_03_Microphone/RP6Control_Microphone.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_03_Microphone/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_03_Microphone/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_03_Microphone/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_04_ExternalEEPROM/RP6Control_04_ExternalEEPROM.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_04_ExternalEEPROM/RP6Control_04_ExternalEEPROM.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_04_ExternalEEPROM/RP6Control_04_ExternalEEPROM.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_04_ExternalEEPROM/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_04_ExternalEEPROM/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_04_ExternalEEPROM/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_05_IO_ADC/RP6Control_05_IO_ADC.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_05_IO_ADC/RP6Control_05_IO_ADC.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_05_IO_ADC/RP6Control_05_IO_ADC.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_05_IO_ADC/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_05_IO_ADC/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_05_IO_ADC/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_06_I2CMaster/Example_06_I2CMaster.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_06_I2CMaster/RP6Control_06_I2CMaster.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_06_I2CMaster/RP6Control_06_I2CMaster.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_06_I2CMaster/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_06_I2CMaster/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_06_I2CMaster/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/Example_07_I2CMaster.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/Example_07_I2CMaster.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/RP6Control_07_I2CMaster.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/RP6Control_07_I2CMaster.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/RP6Control_07_I2CMaster_uncommented.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_07_I2CMaster/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/Example_08_I2CMaster.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/RP6Control_08_I2CMaster.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/RP6Control_08_I2CMaster.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/RP6Control_I2CMasterLib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/RP6Control_I2CMasterLib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_08_I2CMaster/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/Example_09_Move.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/RP6Control_09_Move.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/RP6Control_09_Move.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/RP6Control_I2CMasterLib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/RP6Control_I2CMasterLib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_09_Move/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/Example_10_Move2.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/RP6Control_10_Move2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/RP6Control_10_Move2.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/RP6Control_10_Move2_fast.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/RP6Control_10_Move2_fast.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/RP6Control_I2CMasterLib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/RP6Control_I2CMasterLib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/Example_10_Move2/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/RP6ControlExamples.ppg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/RP6Control_SELFTEST/RP6Control_SELFTEST.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/RP6Control_SELFTEST/RP6Control_SELFTEST.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/RP6Control_SELFTEST/RP6Control_SELFTEST.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/RP6Control_SELFTEST/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/RP6Control_SELFTEST/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/RP6Control_SELFTEST/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6CONTROL_EXAMPLES/rebuild_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6ControlLibrary.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6ControlLibrary.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6Library.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6Library.pnps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6M256Library.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6base/RP6RobotBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6base/RP6RobotBaseLib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6base/RP6RobotBaseLib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6common/RP6Config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6common/RP6I2CmasterTWI.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6common/RP6I2CmasterTWI.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6common/RP6I2CslaveTWI.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6common/RP6I2CslaveTWI.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6common/RP6uart.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6common/RP6uart.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control/RP6Control.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control/RP6ControlLib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control/RP6ControlLib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256Lib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256Lib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256_I2CMasterLib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256_I2CMasterLib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256_WIFIlib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256_WIFIlib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256uart.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/RP6M256uart.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/Doxyfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/FAQ" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/byteordering.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/byteordering.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/annotated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/byteordering_8c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/byteordering_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/doxygen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/fat_8c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/fat_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/fat__config_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/files.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/functions_vars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/globals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/globals_defs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/globals_func.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/globals_type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__byteordering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__fat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__fat__config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__fat__dir.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__fat__file.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__fat__fs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__partition.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__partition__config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__sd__raw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/group__sd__raw__config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/modules.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/partition_8c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/partition_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/partition__config_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/sd-reader__config_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/sd__raw_8c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/sd__raw_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/sd__raw__config_8h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/structfat__dir__entry__struct.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/structpartition__struct.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/structsd__raw__info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/doc/html/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/fat.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/fat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/fat_config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/partition.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/partition.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/partition_config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/sd-reader_config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/sd_raw.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/sd_raw.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/sd_raw_config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/uart.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/RP6control_M256_WIFI/sdc/uart.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6Lib/VERSION_1.8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/Example_01_LCD.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/RP6M256_LCD.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/RP6M256_LCD.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_02_Buttons/Example_02_Buttons.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_02_Buttons/RP6M256_Buttons.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_02_Buttons/RP6M256_Buttons.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_02_Buttons/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_02_Buttons/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_02_Buttons/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_03_ADC_IO1/Example_03_ADC_IO1.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_03_ADC_IO1/RP6M256_ADC_IO1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_03_ADC_IO1/RP6M256_ADC_IO1.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_03_ADC_IO1/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_03_ADC_IO1/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_03_ADC_IO1/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_04_SDCARD/M256_SELFTEST_TESTFILE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_04_SDCARD/RP6M256_04_SDCARD.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_04_SDCARD/RP6M256_04_SDCARD.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_04_SDCARD/RP6M256_04_SDCARD.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_04_SDCARD/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_04_SDCARD/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_04_SDCARD/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_05_WLAN_CMD/RP6M256_WLAN_CMD.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_05_WLAN_CMD/RP6M256_WLAN_CMD.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_05_WLAN_CMD/RP6M256_WLAN_CMD.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_05_WLAN_CMD/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_05_WLAN_CMD/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_05_WLAN_CMD/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_06_I2CMaster/Example_06_I2CMaster.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_06_I2CMaster/RP6M256_06_I2CMaster.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_06_I2CMaster/RP6M256_06_I2CMaster.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_06_I2CMaster/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_06_I2CMaster/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_06_I2CMaster/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_07_I2CMaster/Example_07_I2CMaster.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_07_I2CMaster/RP6M256_07_I2CMaster.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_07_I2CMaster/RP6M256_07_I2CMaster.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_07_I2CMaster/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_07_I2CMaster/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_07_I2CMaster/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_08_I2CMaster/Example_08_I2CMaster.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_08_I2CMaster/RP6M256_08_I2CMaster.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_08_I2CMaster/RP6M256_08_I2CMaster.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_08_I2CMaster/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_08_I2CMaster/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_08_I2CMaster/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_09_Move/Example_09_Move.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_09_Move/RP6M256_09_Move.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_09_Move/RP6M256_09_Move.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_09_Move/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_09_Move/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_09_Move/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_10_Move2/Example_10_Move2.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_10_Move2/RP6M256_10_Move2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_10_Move2/RP6M256_10_Move2.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_10_Move2/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_10_Move2/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_10_Move2/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_11_WIFI_REMOTE_1/Example_11_WIFI_REMOTE_1.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_11_WIFI_REMOTE_1/RP6M256_11_WIFI_REMOTE_1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_11_WIFI_REMOTE_1/RP6M256_11_WIFI_REMOTE_1.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_11_WIFI_REMOTE_1/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_11_WIFI_REMOTE_1/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_11_WIFI_REMOTE_1/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_12_WIFI_REMOTE_2/Example_12_WIFI_REMOTE_2.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_12_WIFI_REMOTE_2/RP6M256_12_WIFI_REMOTE_2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_12_WIFI_REMOTE_2/RP6M256_12_WIFI_REMOTE_2.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_12_WIFI_REMOTE_2/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_12_WIFI_REMOTE_2/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_12_WIFI_REMOTE_2/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_13_Simple_Webserver/Example_13_Simple_Webserver.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_13_Simple_Webserver/RP6M256_13_Simple_Webserver.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_13_Simple_Webserver/RP6M256_13_Simple_Webserver.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_13_Simple_Webserver/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_13_Simple_Webserver/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_13_Simple_Webserver/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_14_SDCARD_logging/RP6M256_14_SDCARD_logging.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_14_SDCARD_logging/RP6M256_14_SDCARD_logging.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_14_SDCARD_logging/RP6M256_14_SDCARD_logging.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_14_SDCARD_logging/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_14_SDCARD_logging/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_14_SDCARD_logging/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6M256_SELFTEST/M256_SELFTEST_TESTFILE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6M256_SELFTEST/RP6M256_SELFTEST.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6M256_SELFTEST/RP6M256_SELFTEST.hex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6M256_SELFTEST/RP6M256_SELFTEST.pnproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6M256_SELFTEST/make_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6M256_SELFTEST/make_clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6M256_SELFTEST/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/RP6WIFIExamples.ppg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/rebuild_all.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/license_gpl.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/makefile" />
+        <option value="$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/makefile" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RP6Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RP6Examples" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bce99b0e-c146-4ae3-86c0-474cff9e249c" name="Default" comment="" />
+      <created>1509908200102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509908200102</updated>
+      <workItem from="1509908202111" duration="1229000" />
+      <workItem from="1511362795957" duration="54000" />
+      <workItem from="1511362859237" duration="24000" />
+      <workItem from="1511362895128" duration="519000" />
+      <workItem from="1511363481953" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11666667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/make_all.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/make_all.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/make_clean.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/Example_01_LCD.pnproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/RP6M256_LCD.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/RP6M256_LCD.hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/make_all.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/make_clean.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/Example_01_LCD.pnproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6_M256_WIFI_EXAMPLES/Example_01_LCD/RP6M256_LCD.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6BASE_EXAMPLES/Example_01_LEDs/make_all.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6BASE_EXAMPLES/rebuild_all.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2924">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP6CONTROL_EXAMPLES/rebuild_all.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/license_gpl.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
